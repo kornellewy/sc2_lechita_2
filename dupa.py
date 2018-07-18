@@ -60,7 +60,6 @@ def check_data():
     print("Total data length now is:", total_data)
     return lengths
 
-
 hm_epochs = 10
 
 for i in range(hm_epochs):
